@@ -1,4 +1,6 @@
 '''
+Please run it when running in colab
+
 !pip install dicom2nifti
 !pip install SimpleITK
 '''
