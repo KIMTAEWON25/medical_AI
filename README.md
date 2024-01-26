@@ -26,6 +26,16 @@ MRI Images: The input to the model includes MRI scans in axial, sagittal, and co
 ### **Regularization**
 * Dropout (0.5): A dropout rate of 50% during training helps in preventing overfitting and encourages the development of a more robust model.
 
+## **Requirements**
+* tensorflow 2.0.0
+* matplotlib 3.3.4
+* SimpleITK 1.2.4
+```python
+%cd Test
+!pip install -r 'requirements.txt'
+```
+
+
 ## **How can we use ?**
 - The example code below applies to almost all modules.
 - 
