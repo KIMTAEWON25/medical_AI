@@ -31,3 +31,13 @@ MRI Images: The input to the model includes MRI scans in axial, sagittal, and co
 
 ## **How can we use ?**
 - The example code below applies to almost all modules.
+- 
+### **Inference**
+```python
+%cd Test
+!python run_main.py -i './input_data' -gpu -1
+```                 
+* i: Input cxr image folder location.
+* gpu: Please enter the gpu number you will use
+  
+The output results are saved as a csv file in the location corresponding to parameter i.
