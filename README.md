@@ -14,6 +14,8 @@ T1-weighted post-contrast (T1ce), Black Blood (BB), and other sequences. The mod
 
 The architecture is built on the DenseNet169 convolutional neural network framework, known for its dense connectivity pattern between layers which promotes feature reuse and reduces the number of parameters, making the network efficient and powerful for image classification tasks.
 
+### **Data** 
+The learning data consists of AMC(AsanMedicalCenter) 272, Snubh(Seoul National University Bundang Hospital) 543 patient data.
 
 ### **Input** 
 MRI Images: The input to the model includes MRI scans in axial, sagittal, and coronal planes, providing a comprehensive view of the brain's anatom
