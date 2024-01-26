@@ -35,7 +35,7 @@ MRI Images: The input to the model includes MRI scans in axial, sagittal, and co
 
 ## **How can we use ?**
 - The example code below applies to almost all modules.
-- 
+  
 ### **Inference**
 ```python
 %cd Test
