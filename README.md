@@ -45,3 +45,8 @@ MRI Images: The input to the model includes MRI scans in axial, sagittal, and co
 * gpu: Please enter the gpu number you will use
   
 The output results are saved as a csv file in the location corresponding to parameter i.
+
+## **Contributing**
+
+If you'd like to contribute, or have any suggestions for these guidelines, you can contact us at junegoo.lee@gmail.com or open an issue on this GitHub repository.
+
