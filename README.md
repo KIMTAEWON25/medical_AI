@@ -1,4 +1,3 @@
 # MRI Modality (t1ce, bb, others) Classification
 
-This repository contains the implementation of an MRI Modality Classification model designed to categorize MRI scans into distinct sequences such as T1ce, BB, others. The model processes images in three planes - axial, sagittal, and coronal - to fully leverage the spatial information of brain tissues.
-
+This repository includes an MRI Modality Classification model that sorts MRI images into specific sequences: T1-weighted post-contrast (T1ce), Black Blood (BB), and other sequences. The model is designed to analyze scans across three different planes—axial, sagittal, and coronal—to utilize the full spectrum of spatial information available in brain tissue imaging.
