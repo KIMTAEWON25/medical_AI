@@ -1,11 +1,6 @@
 # MRI Modality (t1ce, bb, others) Classification
 
-This repository includes an MRI Modality Classification model that sorts MRI images into specific sequences: 
-
-T1-weighted post-contrast (T1ce), Black Blood (BB), and other sequences. The model is designed to analyze scans across three different axial, sagittal, and coronal utilize the full spectrum of spatial information available in brain tissue imaging.
-The learning data consists of AMC(AsanMedicalCenter) 272, Snubh(Seoul National University Bundang Hospital) 543 patient data.
-
-
+The MRI Modality Classification model housed in this repository is adept at categorizing MRI images into T1-weighted post-contrast (T1ce), Black Blood (BB), and various other sequences. This model meticulously processes scans along the axial, sagittal, and coronal planes to capture a complete range of spatial detail in cerebral imaging. Training for this model is fortified by a dataset comprising patient data from Asan Medical Center (272 patients) and Seoul National University Bundang Hospital (543 patients), enriching its learning capacity and accuracy in clinical diagnostics.
 
 ## **Model Architecture**
 
